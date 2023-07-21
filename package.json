@@ -19,7 +19,5 @@
     "nuxt-multiselect": "^1.0.1",
     "vue-sweetalert2": "^4.2.1"
   },
-   "engines": {
-    "node": ">=16.0.0 <17.0.0"
-  }
+  "engines": { "node": ">=14.0.0 <17.0.0" }
 }
